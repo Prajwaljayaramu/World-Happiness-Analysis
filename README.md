@@ -29,4 +29,4 @@
 
 Required Dataset
 
-https://www.kaggle.com/code/selindemircg/world-happiness-exploratory-data-analysis/data
+https://www.kaggle.com/selindemircg/world-happiness-exp-data-analysis/data
